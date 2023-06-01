@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: Github Issues Plugin
+  description: ""
+  x-cortex-tag: github-issues-plugin
+  x-cortex-git:
+    github:
+      repository: cremerica/GitHub-Issues-Plugin
+  x-cortex-custom-metadata:
+    cortex-template-version: 0.1.0
+    cortex-generated-timestamp: 2023-06-01T13:39:40.319292240
